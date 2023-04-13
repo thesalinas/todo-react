@@ -1,0 +1,22 @@
+ul {
+  margin: 0;
+  padding: 0 0 56px 0;
+  list-style: none;
+}
+
+
+.ContentLoader {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.EmptyTodo {
+  display: flex;
+  margin: 20px auto;
+  padding: 0 auto;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.4rem;
+}
